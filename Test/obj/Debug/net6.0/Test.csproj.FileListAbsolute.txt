@@ -1,0 +1,15 @@
+D:\GeekBrainsWork\FinalTest\Test\obj\Debug\net6.0\Test.csproj.AssemblyReference.cache
+D:\GeekBrainsWork\FinalTest\Test\obj\Debug\net6.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrainsWork\FinalTest\Test\obj\Debug\net6.0\Test.AssemblyInfoInputs.cache
+D:\GeekBrainsWork\FinalTest\Test\obj\Debug\net6.0\Test.AssemblyInfo.cs
+D:\GeekBrainsWork\FinalTest\Test\obj\Debug\net6.0\Test.csproj.CoreCompileInputs.cache
+D:\GeekBrainsWork\FinalTest\Test\bin\Debug\net6.0\Test.exe
+D:\GeekBrainsWork\FinalTest\Test\bin\Debug\net6.0\Test.deps.json
+D:\GeekBrainsWork\FinalTest\Test\bin\Debug\net6.0\Test.runtimeconfig.json
+D:\GeekBrainsWork\FinalTest\Test\bin\Debug\net6.0\Test.dll
+D:\GeekBrainsWork\FinalTest\Test\bin\Debug\net6.0\Test.pdb
+D:\GeekBrainsWork\FinalTest\Test\obj\Debug\net6.0\Test.dll
+D:\GeekBrainsWork\FinalTest\Test\obj\Debug\net6.0\refint\Test.dll
+D:\GeekBrainsWork\FinalTest\Test\obj\Debug\net6.0\Test.pdb
+D:\GeekBrainsWork\FinalTest\Test\obj\Debug\net6.0\Test.genruntimeconfig.cache
+D:\GeekBrainsWork\FinalTest\Test\obj\Debug\net6.0\ref\Test.dll
